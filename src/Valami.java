@@ -1,7 +1,7 @@
 public class Valami {
 
   public static void main(String[] args) {
-    String parameter = "Johannesburg";
+    String parameter = "Szeged";
     cheer(parameter);
   }
 
