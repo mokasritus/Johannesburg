@@ -6,8 +6,6 @@ public class Valami {
   }
 
   private static void cheer(String parameter) {
-    System.out.println(parameter);
+    System.out.println("Java");
   }
-
-
 }
