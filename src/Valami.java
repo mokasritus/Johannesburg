@@ -6,6 +6,7 @@ public class Valami {
   }
 
   private static void cheer(String parameter) {
-    System.out.println("Johannesburg");
+
+    System.out.println("most jön a Java");
   }
 }
