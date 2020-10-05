@@ -8,6 +8,4 @@ public class Valami {
   private static void cheer(String parameter) {
     System.out.println(parameter);
   }
-
-
 }
