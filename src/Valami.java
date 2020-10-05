@@ -1,10 +1,13 @@
 public class Valami {
 
   public static void main(String[] args) {
-    cheer();
+    String parameter = "Johannesburg";
+    cheer(parameter);
   }
 
-  private static void cheer() {
-    System.out.println("Johannesburg");
+  private static void cheer(String parameter) {
+    System.out.println(parameter);
   }
+
+
 }
