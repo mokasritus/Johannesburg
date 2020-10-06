@@ -1,6 +1,6 @@
 public class Erik {
 
   public void count() {
-    System.out.println(11);
+    System.out.println("Counting the countless parameter");
   }
 }
