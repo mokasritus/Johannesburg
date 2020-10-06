@@ -1,6 +1,6 @@
 public class Erik {
 
-  public void count(int number) {
-    System.out.println(number);
+  public void count() {
+    System.out.println(11);
   }
 }
