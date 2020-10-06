@@ -3,6 +3,6 @@ public class GreetMethodA {
   String greeting = "Hello";
 
   public static void greet (String greeting, String name) {
-    System.out.println(greeting  + " " + name);
+    System.out.println("Greeting for the" + greeting);
   }
 }
